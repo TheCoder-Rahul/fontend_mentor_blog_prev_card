@@ -28,26 +28,25 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TheCoder-Rahul/fontend_mentor_blog_prev_card.git)
-- Live Site URL: [Add live site URL here](https://thecoder-rahul.github.io/fontend_mentor_blog_prev_card)
+👉 [Solution URL](https://github.com/TheCoder-Rahul/fontend_mentor_blog_prev_card.git)
+👉 [Live Site URL](https://thecoder-rahul.github.io/fontend_mentor_blog_prev_card)
 
 ## My process
 
 ### Built with
 
-- Markup: Semantic HTML5 for better accessibility and SEO.
-- Styling: CSS3 with Custom Properties (variables) for a maintainable color scheme.
-- Layout: Flexbox for centering the card and managing the internal alignment.
-- Typography: Local font integration using @font-face for performance and privacy.
-- Workflow: Mobile-first approach and Responsive Design using Media Queries.
+👉 **Markup:** Semantic HTML5 for better accessibility and SEO.
+👉 **Styling:** CSS3 with Custom Properties (variables) for a maintainable color scheme.
+👉 **Layout:** Flexbox for centering the card and managing the internal alignment.
+👉 **Typography:** Local font integration using @font-face for performance and privacy.
+👉 **Workflow:** Mobile-first approach and Responsive Design using Media Queries.
 
 ### What I learned
 
 In this project, I focused on improving my asset management and interactive styling. Key takeaways include:
 
-Local Font Integration: Instead of relying on external CDNs, I learned how to host font files locally using the @font-face rule. This improves privacy and ensures the site looks consistent even offline.
-
-Interactive States: I practiced using CSS transitions to create smooth hover effects on the blog card, improving the overall user experience.
+👉 **Local Font Integration:** I learned how to host font files locally using the `@font-face` rule to ensure consistent rendering across all devices.
+👉 **Interactive States:** I implemented smooth CSS transitions for hover effects, enhancing the tactile feel of the card.
 
 ```html
 <section class="blog-card">
