@@ -24,28 +24,30 @@ Users should be able to:
 
 ### Screenshot
 
-![Design screenshot](./screenshot.jpg)
+![Design screenshot](https://github.com/TheCoder-Rahul/fontend_mentor_blog_prev_card/blob/main/project_screenshot.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/TheCoder-Rahul/fontend_mentor_blog_prev_card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://thecoder-rahul.github.io/fontend_mentor_blog_prev_card)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- Local Font Integration
-- External Stylesheet
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- Media Queries
+- Markup: Semantic HTML5 for better accessibility and SEO.
+- Styling: CSS3 with Custom Properties (variables) for a maintainable color scheme.
+- Layout: Flexbox for centering the card and managing the internal alignment.
+- Typography: Local font integration using @font-face for performance and privacy.
+- Workflow: Mobile-first approach and Responsive Design using Media Queries.
 
 ### What I learned
 
-I have lreaned how to integrate fonts from my project instead of any global font. Applied the transitioning effect on the hover.
+In this project, I focused on improving my asset management and interactive styling. Key takeaways include:
+
+Local Font Integration: Instead of relying on external CDNs, I learned how to host font files locally using the @font-face rule. This improves privacy and ensures the site looks consistent even offline.
+
+Interactive States: I practiced using CSS transitions to create smooth hover effects on the blog card, improving the overall user experience.
 
 ```html
 <section class="blog-card">
